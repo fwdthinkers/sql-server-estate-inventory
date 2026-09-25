@@ -80,7 +80,7 @@ Optional, and nothing is owed if you do.
 
 If you send us the `.txt` file, we will read it and get on a call to walk through what it shows. No charge. For a fair number of organizations that call is the whole engagement, because the answer turns out to be simpler than they expected.
 
-Email it to **REPLACE_WITH_INTAKE_ADDRESS**
+Email it to **contact@forwardthinkersconsulting.com**
 
 **Redact whatever you want first.** Server names and database names are in the output, and at some organizations that alone is enough to make sending it a problem. We do not need them. Support status, patch level, configuration, feature usage, and backup gaps are what matter, and none of that is sensitive. Black out the names and send the rest.
 
