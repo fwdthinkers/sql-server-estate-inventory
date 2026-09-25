@@ -75,15 +75,13 @@ SET @VersionName =
 
 SET @ExtendedEndDate =
     CASE
-        WHEN @MajorVersion =  8                        THEN CONVERT(date, '2013-04-09', 120)
-        WHEN @MajorVersion =  9                        THEN CONVERT(date, '2016-04-12', 120)
-        WHEN @MajorVersion = 10                        THEN CONVERT(date, '2019-07-09', 120)
-        WHEN @MajorVersion = 11                        THEN CONVERT(date, '2022-07-12', 120)
-        WHEN @MajorVersion = 12                        THEN CONVERT(date, '2024-07-09', 120)
-        WHEN @MajorVersion = 13                        THEN CONVERT(date, '2026-07-14', 120)
-        WHEN @MajorVersion = 14                        THEN CONVERT(date, '2027-10-12', 120)
-        WHEN @MajorVersion = 15                        THEN CONVERT(date, '2030-01-08', 120)
-        WHEN @MajorVersion = 16                        THEN CONVERT(date, '2033-01-11', 120)
+        WHEN @MajorVersion = 10                        THEN CONVERT(date, '2019-07-10', 120)
+        WHEN @MajorVersion = 11                        THEN CONVERT(date, '2022-07-13', 120)
+        WHEN @MajorVersion = 12                        THEN CONVERT(date, '2024-07-10', 120)
+        WHEN @MajorVersion = 13                        THEN CONVERT(date, '2026-07-15', 120)
+        WHEN @MajorVersion = 14                        THEN CONVERT(date, '2027-10-13', 120)
+        WHEN @MajorVersion = 15                        THEN CONVERT(date, '2030-01-09', 120)
+        WHEN @MajorVersion = 16                        THEN CONVERT(date, '2033-01-12', 120)
         ELSE NULL
     END;
 
