@@ -6,7 +6,7 @@ Run it once per instance. It changes nothing.
 
 ## Why this exists
 
-SQL Server 2016 left extended support on July 14, 2026. SQL Server 2017 follows on October 12, 2027.
+SQL Server 2016 left extended support on July 15, 2026. SQL Server 2017 follows on October 13, 2027.
 
 Most organizations we talk to are not certain which of their instances are affected, because the estate grew over a decade and the inventory lives in several places that do not agree with each other. Before anyone can budget for a migration, somebody has to produce a defensible list.
 
@@ -80,7 +80,7 @@ Optional, and nothing is owed if you do.
 
 If you send us the `.txt` file, we will read it and get on a call to walk through what it shows. No charge. For a fair number of organizations that call is the whole engagement, because the answer turns out to be simpler than they expected.
 
-Email it to **contact@forwardthinkersconsulting.com**
+Email it to **REPLACE_WITH_INTAKE_ADDRESS**
 
 **Redact whatever you want first.** Server names and database names are in the output, and at some organizations that alone is enough to make sending it a problem. We do not need them. Support status, patch level, configuration, feature usage, and backup gaps are what matter, and none of that is sensitive. Black out the names and send the rest.
 
@@ -92,4 +92,4 @@ MIT. Provided as is, without warranty of any kind. Read the script, decide for y
 
 [Forward Thinkers Consulting](https://www.forwardthinkersconsulting.com), a data engineering practice working in SQL Server, SSIS and ETL, healthcare EDI X12, and Azure since 2010.
 
-More on the assessment this script feeds: [SQL Server Estate Assessment](https://www.forwardthinkersconsulting.com/sql-server-assessment)
+More on the assessment this script feeds: [SQL Server Estate Assessment](https://www.forwardthinkersconsulting.com/services/sql-server-assessment)
